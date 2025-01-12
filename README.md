@@ -1,6 +1,11 @@
 ## About me!
-Hi! My name is Roope Myller and I'm a Software Engineering student in LUT University in Lappeenranta. 
-In my free time I enjoy sports, gaming and photography. I'm also an active reservist in a local club.
+
+A motivated and detail-oriented software engineering student in LUT University with a growing background in software
+development, algorithms and computer systems. Enthusiastic about designing, coding, and debugging
+software applications.
+
+Enjoys sports, gaming and photography in his freetime. An active reservist in a local club.
+
 ### Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
