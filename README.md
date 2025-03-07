@@ -21,9 +21,5 @@ Enjoys sports, gaming and photography. An active reservist in a local club.
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ### Contact me
-
-[![image](https://user-images.githubusercontent.com/72581705/144093004-9ed6b658-c668-4673-91ab-37374d838d5d.png)][1] [![icons8-telegram-app-48 (1)](https://user-images.githubusercontent.com/72581705/144093652-4659db15-2278-47d1-817d-d68449f62296.png)][2]
-
-
-[1]: https://www.linkedin.com/in/roopemyller/
-[2]: https://t.me/roopemyller
+LinkedIn	[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/roopemyller/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/roopemyller)
