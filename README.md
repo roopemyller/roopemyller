@@ -1,5 +1,7 @@
 **Keyboard goes clickity-clackity...**
 
+Studying software engineering in LUT University.
+
 ### Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
