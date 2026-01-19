@@ -1,10 +1,4 @@
-## About me!
-
-A motivated and detail-oriented software engineering student in LUT University with a growing background in software
-development, algorithms and computer systems. Enthusiastic about designing, coding, and debugging
-software applications.
-
-Enjoys sports, gaming and photography. An active reservist in a local club.
+## Keyboard goes clickity-clackity...
 
 ### Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
