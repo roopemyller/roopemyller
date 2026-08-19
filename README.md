@@ -1,4 +1,3 @@
-**Keyboard goes clickity-clackity...**
 
 Studying software engineering in LUT University.
 
